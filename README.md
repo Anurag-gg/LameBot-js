@@ -1,5 +1,5 @@
 # LameBot
-## A lame discord bot made using nodeJS and postgresSQL
+## A lame discord bot made using nodeJS and postgreSQL
 ### Literally recreated the [LameBot](https://github.com/Anurag-gg/lameBot) but now using JavaScript and slash commands
 
 #### Commands:
